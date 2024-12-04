@@ -1,6 +1,6 @@
 <h1>Advent Of Code 2023</h1>
 
-![1733039492277](https://github.com/user-attachments/assets/66c2ae94-815b-4963-9de9-6299a1db6c74)
+<img src="https://github.com/user-attachments/assets/66c2ae94-815b-4963-9de9-6299a1db6c74">
 
 <p>
 Welcome to the Advent of Code 2023 repository! This repository contains all of the AOC questions I solved in December 2023.
