@@ -3,7 +3,7 @@
 <img width=100% src="https://github.com/user-attachments/assets/66c2ae94-815b-4963-9de9-6299a1db6c74">
 
 <p>
-Welcome to the Advent of Code 2023 repository! This repository contains all of the AOC questions I solved in December 2023.
+Welcome to the Advent of Code repository! This repository contains all of the AOC questions I solved in 2023 & 2024.
 
 <h3>About Advent of Code</h3>
 Advent of Code is an annual set of Christmas-themed computer programming challenges that follow an Advent calendar. It has been running since 2015. The programming puzzles cover a variety of skill sets and skill levels and can be solved using any programming language.
