@@ -1,4 +1,4 @@
-<h1>Advent Of Code 2023</h1>
+<h1>Advent Of Code</h1>
 
 <img width=100% src="https://github.com/user-attachments/assets/66c2ae94-815b-4963-9de9-6299a1db6c74">
 
